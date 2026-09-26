@@ -1,6 +1,6 @@
 ## Hi, I'm Arpan 👋
 
-I'm a Data Science student at the [University of Waterloo](https://uwaterloo.ca), focusing on Computer Science and Statistics.
+I'm a Data Science student at the University of Waterloo, focusing on Computer Science and Statistics.
 
 Most of my programming is in **C++** and **Python**, where I like building high-performance software. I'm also interested in distributed systems and machine learning.
 
