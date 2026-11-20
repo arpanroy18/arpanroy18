@@ -2,7 +2,7 @@
 
 I'm a Data Science student at the University of Waterloo, focusing on Computer Science and Statistics.
 
-I mostly write C++ and Python, and I enjoy building software that runs fast. Right now I'm especially interested in distributed systems and machine learning.
+I enjoy programming in C++ and Python, especially building software that runs fast. Right now I'm especially interested in distributed systems and machine learning.
 
 ### Projects
 
