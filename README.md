@@ -1,26 +1,27 @@
-## Hi, I'm Arpan 👋
+## Hey, I'm Arpan
 
-I'm a Data Science student at the University of Waterloo, focusing on Computer Science and Statistics.
+I study Data Science at the University of Waterloo, mostly the CS and stats side of it.
 
-Most of my programming is in **C++** and **Python**, where I like building high-performance software. I'm also interested in distributed systems and machine learning.
+I write a lot of C++ and Python and I like making things fast. Lately most of my time goes into distributed systems and ML.
 
-### Selected projects
+### Stuff I've built
 
-- **[vectra](https://github.com/arpanroy18/vectra)** — a vector search library
-- **[job-runner](https://github.com/arpanroy18/job-runner)** — a local distributed job runner and scheduler (`jr`), with a custom TCP protocol, persistent journal, and worker daemons
-- **[MLB Player Analytics Engine](https://github.com/arpanroy18/sabr-project)** — player similarity search for scouting, built for the 2025 SABR Analytics Conference
-- **[Custom Transformer Decoder](https://github.com/arpanroy18/transformer-encoder)** — a decoder-only transformer implemented from scratch in NumPy, with a KV cache
-- **[Spyfall](https://github.com/arpanroy18/spyfall)** — real-time multiplayer social deduction game, synced over Firebase
-- **[InternTrack](https://github.com/arpanroy18/intern-track)** — job application tracker with a statistics dashboard
+- **[vectra](https://github.com/arpanroy18/vectra)**: a vector search library in Python. Exact and HNSW search, quantization, metadata filters, and it saves to disk.
+- **[jr](https://github.com/arpanroy18/job-runner)**: a small distributed job runner I wrote in C++. It has a scheduler, worker daemons, its own TCP protocol, and a journal so it picks up where it left off after a crash.
+- **[Nored](https://github.com/arpanroy18/htn2026)**: offline messaging over a Bluetooth mesh, built at Hack the North.
+- **[MLB Player Analytics Engine](https://github.com/arpanroy18/sabr-project)**: player similarity search for scouting, made for the 2025 SABR Analytics Conference.
+- **[Custom Transformer Decoder](https://github.com/arpanroy18/transformer-encoder)**: a decoder-only transformer from scratch in NumPy, with a KV cache.
+- **[Spyfall](https://github.com/arpanroy18/spyfall)**: a real-time multiplayer social deduction game, synced with Firebase.
+- **[InternTrack](https://github.com/arpanroy18/intern-track)**: tracks my job applications and shows some stats on how it's going.
 
-### Experience
+### Where I've worked
 
-- **CPP Investments** (2026)
-- **Wat.AI** (2026)
-- **Bank of Montreal** (2025)
-- **Athena Guard** (2025)
+- Quantitative Developer at **CPP Investments** (2026)
+- Machine Learning Engineer at **Wat.AI** (2026)
+- Quantitative Analyst at **CPP Investments** (2026)
+- Software Developer at **Bank of Montreal** (2025)
+- Software Developer at **Athena Guard** (2025)
 
-### Elsewhere
+### Find me
 
-- 🌐 [arpanroy.dev](https://arpanroy.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/arpan-roy18)
+My site is [arpanroy.dev](https://arpanroy.dev) and I'm on [LinkedIn](https://www.linkedin.com/in/arpan-roy18). Feel free to reach out.
