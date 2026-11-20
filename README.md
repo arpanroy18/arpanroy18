@@ -19,7 +19,7 @@ I enjoy programming in C++ and Python, especially building software that runs fa
 
 - Quantitative Developer, **CPP Investments** (2026)
 - Machine Learning Engineer, **Wat.AI** (2026)
-- Quantitative Analyst, **CPP Investments** (2026)
+- Quantitative Developer, **CPP Investments** (2026)
 - Software Developer, **Bank of Montreal** (2025)
 - Software Developer, **Athena Guard** (2025)
 
