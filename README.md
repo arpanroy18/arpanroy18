@@ -17,11 +17,11 @@ I enjoy programming in C++ and Python, especially building software that runs fa
 
 ### Experience
 
-- Quantitative Developer, **CPP Investments** (2026)
-- Machine Learning Engineer, **Wat.AI** (2026)
-- Quantitative Developer, **CPP Investments** (2026)
-- Software Developer, **Bank of Montreal** (2025)
-- Software Developer, **Athena Guard** (2025)
+- Quantitative Developer, **CPP Investments** (Sep 2026 – Present)
+- Machine Learning Engineer, **Wat.AI** (May 2026 – Present)
+- Quantitative Developer, **CPP Investments** (Jan 2026 – Apr 2026)
+- Software Developer, **Bank of Montreal** (May 2025 – Aug 2025)
+- Software Developer, **Athena Guard** (May 2025 – Jul 2025)
 
 ### Contact
 
